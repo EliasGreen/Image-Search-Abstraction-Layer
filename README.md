@@ -1,1 +1,1 @@
-# Image-Search-Abstraction-Layer
+Image Search Abstraction Layer by Elias for FCC (https://www.freecodecamp.com/)
